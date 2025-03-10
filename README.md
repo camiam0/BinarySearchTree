@@ -36,8 +36,8 @@ The program provides a **menu-driven interface** where users can:
    java BinarySearchTree.YVDictionary
 
 ## Usage Instructions
-**Upon running the program, you will see the following menu**:
-
+1. **Upon running the program, you will see the following menu**:
+   ```sh
    Hello! This program is a dictionary!
    Here you can add, store, and search data about employees.
 
@@ -47,7 +47,7 @@ The program provides a **menu-driven interface** where users can:
    3 - Modify an existing entry
    4 - Quit the program
 
-**Example Usage**:
+2. **Example Usage**:
 - Add an employee **(Option 1)**
 - Enter the employee details when prompted.
 - View employees **(Option 2)**
