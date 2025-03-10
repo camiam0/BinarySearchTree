@@ -56,9 +56,9 @@ The program provides a **menu-driven interface** where users can:
 - Enter the employee key and updated details.
 
 ## Extra Credit Features:
-**Added an introduction to explain the program.**
-**Created a menu system to guide users through different functionalities.**
+1. **Added an introduction to explain the program.**
+2. **Created a menu system to guide users through different functionalities.**
 
 ## Author:
-**Cameron Bartlett**
-**CS&145 - Lab 4**
+- **Cameron Bartlett**
+- **CS&145 - Lab 4**
