@@ -10,10 +10,10 @@ The program provides a **menu-driven interface** where users can:
 - Exit the program
 
 ## Features
-✔ **Command-line Interface** – Simple interactive menu for user input.
-✔ **Binary Search Tree Implementation** – Organizes employee records efficiently for fast retrieval.  
-✔ **Multiple Search Methods** – Supports **pre-order, in-order, and post-order traversal**.  
-✔ **Employee Record Management** – Allows adding and modifying employee details, including:  
+1. ✔ **Command-line Interface** – Simple interactive menu for user input.
+2. ✔ **Binary Search Tree Implementation** – Organizes employee records efficiently for fast retrieval.  
+3. ✔ **Multiple Search Methods** – Supports **pre-order, in-order, and post-order traversal**.  
+4. ✔ **Employee Record Management** – Allows adding and modifying employee details, including:  
    - First name
    - Last name
    - Address
