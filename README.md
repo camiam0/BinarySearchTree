@@ -10,6 +10,7 @@ The program provides a **menu-driven interface** where users can:
 - Exit the program
 
 ## Features
+✔ **Command-line Interface** – Simple interactive menu for user input.
 ✔ **Binary Search Tree Implementation** – Organizes employee records efficiently for fast retrieval.  
 ✔ **Multiple Search Methods** – Supports **pre-order, in-order, and post-order traversal**.  
 ✔ **Employee Record Management** – Allows adding and modifying employee details, including:  
@@ -18,8 +19,7 @@ The program provides a **menu-driven interface** where users can:
    - Address
    - City, State, Zip
    - Email
-   - Phone number  
-✔ **Command-line Interface** – Simple interactive menu for user input.
+   - Phone number
 
 ## Files
 - `BinaryTree.java` – Manages the **BST structure**, including insert, search, and modify operations.
