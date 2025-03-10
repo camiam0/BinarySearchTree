@@ -32,19 +32,20 @@ The program provides a **menu-driven interface** where users can:
    javac BinarySearchTree/*.java
 
 2. **Run the program**:
-    java BinarySearchTree.YVDictionary
+   ```sh
+   java BinarySearchTree.YVDictionary
 
 ## Usage Instructions
 **Upon running the program, you will see the following menu**:
 
-Hello! This program is a dictionary!
-Here you can add, store, and search data about employees.
+   Hello! This program is a dictionary!
+   Here you can add, store, and search data about employees.
 
-Choose what you would like to do:
-1 - Add a new entry
-2 - Display all existing entries
-3 - Modify an existing entry
-4 - Quit the program
+   Choose what you would like to do:
+   1 - Add a new entry
+   2 - Display all existing entries
+   3 - Modify an existing entry
+   4 - Quit the program
 
 **Example Usage**:
 - Add an employee **(Option 1)**
