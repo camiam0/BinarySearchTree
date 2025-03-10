@@ -1,6 +1,6 @@
 // Cameron Bartlett
 // CS&145
-// Lab 6
+// Lab 4
 // Binary Search Tree
 
 // For extra credit I:

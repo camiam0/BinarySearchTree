@@ -1,3 +1,8 @@
+// Cameron Bartlett
+// CS&145
+// Lab 4
+// Binary Search Tree
+
 package BinarySearchTree;
 
 class Node {
